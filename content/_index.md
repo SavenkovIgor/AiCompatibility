@@ -1,5 +1,8 @@
 ---
-goal: Find common ground across tools by treating AI Artifacts as the primary entities and IDE implementations as secondary. Also it is important to not be too verbose - it is an overview, not a documentation. For documentation links are provided.
+title: "AI Artifacts (In)Compatibility"
+description: "A comparison of how GitHub Copilot, Cursor, and Claude Code implement AI artifacts — instructions, skills, agents, MCP servers, and plugins — as file-based inputs."
+extra:
+  goal: "Find common ground across tools by treating AI Artifacts as the primary entities and IDE implementations as secondary. Also it is important to not be too verbose - it is an overview, not a documentation. For documentation links are provided."
 ---
 
 # AI Artifacts (In)Compatibility
