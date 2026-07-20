@@ -1,0 +1,9 @@
+base_url = "https://savenkovigor.github.io/AiCompatibility"
+title = "AI Artifacts (In)Compatibility"
+description = "A comparison of how GitHub Copilot, Cursor, and Claude Code implement AI artifacts — instructions, skills, agents, MCP servers, and plugins — as file-based inputs."
+compile_sass = false
+build_search_index = false
+generate_feeds = false
+
+[markdown]
+highlight_code = true
